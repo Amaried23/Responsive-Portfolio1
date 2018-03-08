@@ -4,7 +4,7 @@
 
 ### Portfolio for prior web development work
 
-About me page includes a little bit of information about myself and what lead me to web development. 
+About me page includes a little bit of information about myself and what led me to web development. 
 
 Portfolio page includes websites I have worked on. 
 
